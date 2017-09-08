@@ -1,0 +1,6 @@
+.listadecompras{border: 2px solid #eeeeee; min-height: 414px;}
+.container .jumbotron{border-top-right-radius: 0px; border-bottom-right-radius: 0px; position: relative;}
+.alert{transition:s; -webkit-transition:4s;}
+.alert.fade{opacity: 0;}
+#mensagemView{position: fixed; top: 0px;}
+.delete{font-size: 1.4em; color: #fb0000;}
