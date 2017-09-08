@@ -16,7 +16,7 @@ class Mensagem{
 	}
 
 	executaFade(elemento, tag){
-		setTimeout(function(){
+		setTimeout(n =>{
 			let elementoMensagem = elemento.querySelector(tag);
 			elementoMensagem.className += "fade";			
 		 }, this._time);
